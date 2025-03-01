@@ -1,4 +1,4 @@
-package CalculatorWithOOP;
+package calculatorwithoop;
 
 import java.util.HashMap;
 import java.util.Map;

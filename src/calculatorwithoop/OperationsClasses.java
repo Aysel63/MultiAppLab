@@ -1,4 +1,4 @@
-package CalculatorWithOOP;
+package calculatorwithoop;
 
 public class OperationsClasses {
     public static class Addition implements Operations {
