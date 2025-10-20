@@ -3,11 +3,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>az.edu.turing</groupId>
-  <artifactId>stringAlgorithms</artifactId>
-  <version>1.0</version>
-  <packaging>jar</packaging>
 
-  <name>stringAlgorithms</name>
+    <artifactId>backendjourney</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <name>backendjourney</name>
+
+
+
+
+
   <url>http://maven.apache.org</url>
 
   <properties>
